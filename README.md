@@ -1,5 +1,5 @@
 # Web-APIs-Code-Quiz-4# JavaScript Code Quiz
-
+# Jose De Los Santos Oliver
 ## Description
 
 This JavaScript Code Quiz is an interactive web application designed to test users' knowledge of JavaScript fundamentals. It features a timed quiz with multiple-choice questions, dynamically updated HTML and CSS powered by JavaScript, and a high score tracking system.
